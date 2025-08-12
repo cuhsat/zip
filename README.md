@@ -6,9 +6,9 @@
 
 This is a fork of the `archive/zip` package from the Go standard library which adds support for both the legacy (insecure) ZIP encryption scheme and for newer AES-based encryption schemes introduced with WinZip
 
-> This forward-port is based on Go `1.24` and was done to introduce the latest bugfixes and enhancements.
+> This forward-port is based on Go `1.24.6` and was done to introduce the latest bugfixes and enhancements.
 
-## Schemes
+## Encryption Schemes
 * `zip.StandardEncryption`
 * `zip.AES128Encryption`
 * `zip.AES192Encryption`
