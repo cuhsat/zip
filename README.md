@@ -9,10 +9,10 @@ This is a fork of the `archive/zip` package from the Go standard library which a
 > This forward-port is based on Go `1.24.6` and was done to introduce the latest bugfixes and enhancements.
 
 ## Encryption Schemes
-* `zip.StandardEncryption`
-* `zip.AES128Encryption`
-* `zip.AES192Encryption`
-* `zip.AES256Encryption`
+* `Standard`
+* `AES128`
+* `AES192`
+* `AES256`
 
 ## Acknowledgements
 * [Alex Mullins](https://github.com/alexmullins/zip)
