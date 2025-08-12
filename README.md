@@ -1,10 +1,10 @@
-# Go `archive/zip` with encryption support
+# Zip with encryption support
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/hiforensics/zip.svg)](https://pkg.go.dev/github.com/hiforensics/zip)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hiforensics/zip?style=flat-square)](https://goreportcard.com/report/github.com/hiforensics/zip)
-[![Release](https://img.shields.io/github/release/hiforensics/zip.svg?style=flat-square)](https:/
+[![Release](https://img.shields.io/github/release/hiforensics/zip.svg?style=flat-square)](https://github.com/hiforensics/zip/releases/latest)
 
-This is a fork of the `archive/zip` package from the Go standard library which adds support for both the legacy (insecure) ZIP encryption scheme and for newer AES-based encryption schemes introduced with *WinZip*.
+This is a fork of the `archive/zip` package from the Go standard library which adds support for both the legacy (insecure) ZIP encryption scheme and for newer AES-based encryption schemes introduced with WinZip
 
 > This forward-port is based on Go `1.24` and was done to introduce the latest bugfixes and enhancements.
 
