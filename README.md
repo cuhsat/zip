@@ -20,4 +20,4 @@ This is a fork of the `archive/zip` package from the Go standard library which a
 * [Hilko Bengen](https://github.com/hillu/go-archive-zip-crypto)
 
 ## License
-Released under the [MIT License](LICENSE.md).
+Released under the [BSD License](LICENSE.md).
