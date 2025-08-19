@@ -12,7 +12,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/hiforensics/zip/pkg/zip"
+	"github.com/cuhsat/zip/pkg/zip"
 )
 
 func ExampleWriter() {

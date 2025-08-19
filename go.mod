@@ -1,4 +1,4 @@
-module github.com/hiforensics/zip
+module github.com/cuhsat/zip
 
 go 1.24.6
 
